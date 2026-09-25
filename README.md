@@ -1,6 +1,6 @@
 # Decision Tree Classifier in Java
 
-Un'implementazione da zero di un albero decisionale per la classificazione binaria, scritto in Java puro. Il progetto ha uno scopo didattico e illustra i meccanismi interni della costruzione di un modello predittivo basato sulla Teoria dell'Informazione, senza l'utilizzo di librerie di Machine Learning esterne.
+Un'implementazione da zero di un albero decisionale, sviluppato per un esercizio pratico dell'università, per la classificazione binaria, scritto in Java puro. Il progetto ha uno scopo didattico e illustra i meccanismi interni della costruzione di un modello predittivo basato sulla Teoria dell'Informazione, senza l'utilizzo di librerie di Machine Learning esterne.
 
 ## Concetti Teorici
 
